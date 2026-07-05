@@ -1,0 +1,13 @@
+# Cobalt — Evaluation Notes
+
+**Supply concentration is the defining feature of this commodity.** The DRC accounts for the large majority of global cobalt mine supply, overwhelmingly as a by-product of copper (and to a lesser extent nickel) mining — very few projects are primary cobalt mines. When evaluating a cobalt project, first establish whether it's a standalone cobalt deposit (rare) or a by-product/co-product of a copper or nickel operation, since this fundamentally changes the economics: by-product cobalt economics ride on the host metal's project economics, with cobalt as a credit that improves (or, if the host metal underperforms, doesn't rescue) the overall case.
+
+**Deposit types**: sediment-hosted stratiform copper-cobalt (DRC Copperbelt style — by far the dominant source), and cobalt as a by-product of nickel laterite/sulphide deposits (e.g., in Australia, Indonesia, Canada).
+
+**ESG/governance risk is unusually elevated for this commodity** relative to most others covered here, given the concentration of supply in a jurisdiction with documented artisanal and small-scale mining (ASM) issues, including child labor and safety concerns in parts of the DRC's cobalt supply chain. This is not a peripheral consideration for a cobalt project evaluation — supply chain traceability and ASM-interface risk should be treated as a first-order risk item, not a footnote, especially given increasing downstream (battery/EV OEM) scrutiny and frameworks like the OECD Due Diligence Guidance for responsible mineral supply chains. See `references/esg-sustainability.md`.
+
+**Processing**: cobalt is typically recovered as a by-product during copper or nickel refining (e.g., via solvent extraction from copper leach solutions, or as a by-product stream in nickel sulphate/hydroxide processing for HPAL nickel laterite operations) — check what form the project's cobalt product takes (cobalt hydroxide, cobalt sulphate, refined metal) as this affects marketability and whether further downstream processing/refining is needed.
+
+**Market factors**: cobalt pricing has also been volatile, and is influenced by both battery chemistry trends (some EV battery chemistries, e.g., LFP, use no cobalt at all, while NMC chemistries do — check current search results for chemistry mix trends rather than assuming) and by DRC supply/export-policy developments, which move quickly enough to warrant a search check for current status rather than relying on memory.
+
+**Common evaluation pitfalls**: presenting by-product cobalt revenue as if it were the primary economic driver of a copper/nickel project when it's actually a minor credit; not addressing supply chain traceability/ASM risk at all for a DRC-sourced project.
