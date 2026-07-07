@@ -2,6 +2,12 @@
 
 All notable changes to `mining-evaluation-skills` are documented here.
 
+## v1.3 - README domestic model configuration
+
+**Documentation**: added a new README section, `四、国产大模型配置方法`, describing the verified setup path for using OpenClaw as the model-agnostic host with DeepSeek or Z.ai (GLM) configured as the underlying OpenAI-compatible model provider.
+
+**Documentation**: updated the README table of contents to include the new domestic model configuration section.
+
 ## v1.2 — Fixed inconsistent fonts in Chinese docx reports
 
 **Fixed**: generated Word reports containing Chinese content sometimes showed inconsistent fonts within the same paragraph (e.g. bolded figures or table cells rendering in a different font than surrounding body text).
