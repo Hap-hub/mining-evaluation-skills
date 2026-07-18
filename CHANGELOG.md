@@ -2,6 +2,12 @@
 
 All notable changes to `mining-evaluation-skills` are documented here.
 
+## v1.4 - README Kimi Code skill loading guide
+
+**Documentation**: added a README section, `五、在 Kimi Code 中安装`, describing how to use this Skill with Kimi Code by either cloning the repository into a Kimi skills directory or downloading `mining-evaluation-skills.skill`, unpacking it, and loading the resulting `SKILL.md` directory.
+
+**Documentation**: updated the README table of contents and quick-start wording to include Kimi Code alongside the existing Codex, Claude, Claudian, and OpenClaw paths.
+
 ## v1.3 - README domestic model configuration
 
 **Documentation**: added a new README section, `四、国产大模型配置方法`, describing the verified setup path for using OpenClaw as the model-agnostic host with DeepSeek or Z.ai (GLM) configured as the underlying OpenAI-compatible model provider.
